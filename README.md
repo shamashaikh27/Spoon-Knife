@@ -23,3 +23,10 @@ This project can be used to practice the open-source contribution workflow using
 
 Contributions can be made by creating a fork, developing changes in a separate branch, and submitting a pull request.
 
+
+## Prerequisites
+
+- Git installed on your computer.
+- A GitHub account.
+- Basic knowledge of Git commands.
+
